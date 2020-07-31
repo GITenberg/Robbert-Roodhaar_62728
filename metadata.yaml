@@ -1,0 +1,40 @@
+_repo: Robbert-Roodhaar_62728
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Keller, Gerard
+    birthdate: 1829
+    deathdate: 1899
+    gutenberg_agent_id: '8435'
+    url: http://www.gutenberg.org/2009/agents/8435
+    wikipedia: https://nl.wikipedia.org/wiki/Gerard_Keller
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Cleishbotham, Jedediah
+    - Malagrowther, Malachi
+    - Templeton, Laurence
+    - Scott, Sir Walter
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: https://en.wikipedia.org/wiki/Walter_Scott
+description: Translation of Rob Roy.
+gutenberg_issued: '2020-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62728'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rob Roy, 1671-1734 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Scotland -- History -- 1689-1745 -- Fiction'
+- !lcsh 'Outlaws -- Fiction'
+- GITenberg
+title: Robbert Roodhaar
+url: http://www.gutenberg.org/ebooks/62728
